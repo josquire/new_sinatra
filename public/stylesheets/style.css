@@ -1,0 +1,27 @@
+body {
+  background-color: #cce6ff;
+  color: #00284d;
+
+}
+h1 {
+  text-align: center;
+}
+
+table {
+  border: 2px solid  #86592d;
+  padding: 10px 45px;
+  margin: auto;
+  background-color: white;
+}
+
+.link {
+  text-align: right;
+}
+
+.list {
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: white;
+  margin: 40px 250px;
+  padding: 20px;
+}
